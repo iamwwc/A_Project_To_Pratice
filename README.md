@@ -1,1 +1,2 @@
-##这是一个大一上学期当时来练习的一个小项目，用C语言写的，把它就放在这了~
+This is a project written by C when i was a freshman!
+That's my homework for car management.
